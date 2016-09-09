@@ -1,7 +1,7 @@
 # Algorithms-Practice
 General algorithms practice code
 
-* [DynamicArrays][DynamicArrays]
+* [Dynamic Arrays][DynamicArrays]
 [DynamicArrays]: dynamic_arrays/
 
 
